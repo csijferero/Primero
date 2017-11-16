@@ -1,0 +1,2 @@
+001|Sistemas distribuidos|6
+002|Tecnología de la Programación|7.5
